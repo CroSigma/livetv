@@ -1,23 +1,40 @@
 #EXTM3U x-tvg-url="https://github.com/globetvapp/epg/raw/refs/heads/main/Croatia/croatia1.xml.gz, https://github.com/globetvapp/epg/raw/refs/heads/main/Croatia/croatia2.xml.gz, https://github.com/globetvapp/epg/raw/refs/heads/main/Croatia/croatia3.xml.gz, https://github.com/globetvapp/epg/raw/refs/heads/main/Croatia/croatia4.xml.gz"
+
 #EXTINF:-1 tvg-name="HRT 1 HD (HR).hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-id="HRT1.hr" group-title="Croatia",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+
 #EXTINF:-1 tvg-name="HRT 2 HD (HR).hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" tvg-id="HRT2.hr" group-title="Croatia",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+
 #EXTINF:-1 tvg-name="HTV3 HD.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" group-title="Croatia",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+
 #EXTINF:-1 tvg-name="HTV4 HD.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" tvg-id="HRT4.hr" group-title="Croatia",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+
 #EXTINF:-1 tvg-name="RTL HD.hr" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+
 #EXTINF:-1 tvg-name="RTL 2 HD (HR).hr" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" group-title="Croatia",RTL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
+
 #EXTINF:-1 tvg-name="CMC.hr" tvg-logo="https://i.imgur.com/Fh2vawT.png" tvg-id="CMCTV.hr" group-title="Croatia",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
+
 #EXTINF:-1 tvg-name="TV Jadran.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" tvg-id="TVJadran.hr" group-title="Croatia",TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+
 #EXTINF:-1 tvg-name="Libertas TV.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png" tvg-id="LibertasTV.hr" group-title="Croatia",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
+
 #EXTINF:-1 tvg-name="Slavonskobrodska televizija.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/SBTV_Logo.svg" tvg-id="STV.hr" group-title="Croatia",Televizija Slavonije i Baranje (SBTV)
 https://live.leveex.hr/hls/live.m3u8
+
 #EXTINF:-1 tvg-name="TV Nova Pula" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png" tvg-id="TVNova.hr" group-title="Croatia",TV Nova Pula
 https://stream.Agatin.hr:3727/live/tvnovalive.m3u8
